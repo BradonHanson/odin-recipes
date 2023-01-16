@@ -1,0 +1,26 @@
+body {
+    background-color: teal;
+    color: white;
+    
+}
+h1 {
+    text-align: center;
+}
+ 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h3 {
+    text-align: center;
+
+}
+li {
+    color: white;
+}
+:visited {
+    color: white;
+}
